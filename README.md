@@ -59,6 +59,15 @@
 <a href="https://www.linkedin.com/in/lefa-tonkuru-0123a71b5" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
 </a> 
+<a href="https://www.facebook.com/lefa.tonkuru"   
+ target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge">
+</a> 
+<a href="https://www.instagram.com/lefa_tonkuru"   
+ target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge">
+</a>   
+ 
 * [Portfolio Website Link (if you have one)]
 </div>
 
